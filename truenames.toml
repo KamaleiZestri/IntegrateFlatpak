@@ -1,0 +1,30 @@
+[skip]
+# DO NOT ATTEMPT TO ALTER STEAM. YOU WILL REGRET IT. 
+"com.valvesoftware.Steam" = "Steam"
+# Flatseal doesnt store any settings...
+"com.github.tchx84.Flatseal" = ""
+"com.discordapp.Discord" = ""
+
+
+[run]
+"io.mpv.Mpv" = "mpv"
+"net.cozic.joplin_desktop" = "Joplin"
+"com.gitlab.newsflash" = "news-flash"
+"net.lutris.Lutris" = "lutris"
+"org.videolan.VLC" = "vlc"
+"io.freetubeapp.FreeTube" = "FreeTube"
+"com.bitwarden.desktop" = "Bitwarden"
+"com.visualstudio.code" = "Code"
+"com.vscodium.codium" = "VSCodium"
+"com.borgbase.Vorta" = "borg"
+"com.moonlight_stream.Moonlight" = "Moonlight Game Streaming Project"
+"org.kde.CrowTranslate" = "crow-translate"
+"io.github.peazip.PeaZip" = "peazip"
+"io.qt.Designer" = "QtProject"
+"com.google.AndroidStudio" = "Android Open Source Project"
+"org.geeqie.Geeqie" = "geeqie"
+"org.godotengine.Godot" = "godot"
+"org.nomacs.ImageLounge" = "nomacs"
+"org.shotcut.Shotcut" = "Meltytech"
+"org.strawberrymusicplayer.strawberry" = "strawberry"
+"dev.lizardbyte.app.Sunshine" = "sunshine"
